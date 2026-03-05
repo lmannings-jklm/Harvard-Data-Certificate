@@ -1,0 +1,3 @@
+[submodule "murders"]
+	path = murders
+	url = https://github.com/lmannings-jklm/murders.git
