@@ -1,3 +1,6 @@
 [submodule "murders"]
 	path = murders
 	url = https://github.com/lmannings-jklm/murders.git
+[submodule "pr-hurr-mortality"]
+	path = pr-hurr-mortality
+	url = https://github.com/lmannings-jklm/pr-hurr-mortality.git
